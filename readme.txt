@@ -5,3 +5,4 @@ Git tracks changes of files.
 create remote repository.
 Creating a new branch is quick AND simple.
 add merge
+test resolve bug
